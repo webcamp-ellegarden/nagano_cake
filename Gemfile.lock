@@ -293,7 +293,7 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   jp_prefecture
   jquery-rails
-  kaminari
+  kaminari (~> 1.2.1)
   listen (~> 3.2)
   payjp
   puma (~> 4.1)

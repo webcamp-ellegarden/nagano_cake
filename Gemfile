@@ -10,10 +10,12 @@ gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 4.0'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
+
+#nagano_cake 追加Gem
 gem 'devise'
 gem 'refile', require: "refile/rails", github: 'manfe/refile'
 gem 'refile-mini_magick'
-gem 'kaminari'
+gem 'kaminari','~> 1.2.1'
 gem 'payjp'
 gem 'jquery-rails'
 gem 'dotenv-rails'
