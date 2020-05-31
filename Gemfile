@@ -18,6 +18,7 @@ gem 'payjp'
 gem 'jquery-rails'
 gem 'dotenv-rails'
 gem 'bootstrap', '~> 4.5.0'
+gem 'uglifier'
 gem 'jp_prefecture'
 
 
